@@ -1,0 +1,1143 @@
+,,age,remotely,has_mental_disorder,position,Country,fill_gender
+0,1,29,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+1,2,38,Always,No,Back-end Developer,United Kingdom,other
+2,3,43,Sometimes,Yes,Supervisor/Team Lead,United Kingdom,Male
+3,4,43,Sometimes,Yes,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,Female
+4,5,42,Sometimes,Yes,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,United Kingdom,Male
+5,6,30,Sometimes,No,Back-end Developer,United States of America,Male
+6,7,37,Always,Yes,Dev Evangelist/Advocate|Back-end Developer,United States of America,Female
+7,8,44,Sometimes,Yes,Support|Back-end Developer|One-person shop,United States of America,Female
+8,9,30,Always,Yes,One-person shop|Front-end Developer|Back-end Developer,United States of America,Male
+9,10,28,Never,Yes,Front-end Developer,United States of America,Male
+10,11,34,Sometimes,Yes,Executive Leadership,United States of America,Male
+11,12,30,Always,Yes,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,United States of America,Female
+12,13,44,Sometimes,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Canada,Male
+13,14,35,Always,Yes,Designer,United States of America,Male
+14,15,52,Sometimes,Yes,Other|Executive Leadership,United States of America,other
+15,16,32,Always,Yes,Front-end Developer,Canada,other
+16,17,34,Never,No,Back-end Developer,United Kingdom,Male
+17,18,25,Always,Yes,One-person shop,United States of America,other
+18,19,31,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+19,20,26,Sometimes,No,Back-end Developer,United States of America,Male
+20,21,35,Never,No,Other,United States of America,Male
+21,23,33,Sometimes,No,Back-end Developer,Canada,Male
+22,24,38,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+23,28,34,Never,Maybe,Other,United Kingdom,Female
+24,29,32,Never,Yes,Other|Supervisor/Team Lead|Support|Back-end Developer|Designer,United Kingdom,other
+25,31,30,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+26,32,31,Never,Maybe,One-person shop|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Other,United States of America,Male
+27,34,36,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer,United Kingdom,Male
+28,36,44,Always,Yes,Back-end Developer,United States of America,Male
+29,37,29,Never,Maybe,Front-end Developer,United Kingdom,Male
+30,38,29,Sometimes,Maybe,Back-end Developer,United Kingdom,Male
+31,39,44,Always,No,Support|Other,Canada,Male
+32,40,34,Sometimes,Yes,One-person shop|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+33,41,40,Always,Yes,Other,United States of America,Male
+34,44,41,Never,No,Back-end Developer,United States of America,Male
+35,45,33,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+36,46,32,Sometimes,Yes,Other,United States of America,Male
+37,47,45,Sometimes,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+38,48,43,Sometimes,Maybe,Other,United Kingdom,Male
+39,49,37,Always,Yes,Supervisor/Team Lead,United States of America,Female
+40,50,37,Never,Yes,Executive Leadership,Australia,Male
+41,51,27,Sometimes,No,Front-end Developer|Back-end Developer|Executive Leadership,United States of America,Male
+42,53,36,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin,United States of America,Male
+43,54,34,Always,Maybe,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+44,55,31,Sometimes,No,Other,United States of America,Female
+45,56,30,Never,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+46,57,32,Never,Maybe,Supervisor/Team Lead,Canada,Male
+47,58,40,Sometimes,Maybe,Back-end Developer|Front-end Developer,United States of America,Female
+48,59,40,Sometimes,No,Back-end Developer,United States of America,Male
+49,61,27,Never,Maybe,DevOps/SysAdmin,United Kingdom,Male
+50,62,30,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+51,64,38,Sometimes,No,Other,United Kingdom,Male
+52,66,35,Never,Yes,Supervisor/Team Lead,United States of America,Female
+53,67,29,Always,Yes,Back-end Developer,United States of America,Male
+54,68,28,Never,No,Front-end Developer,United States of America,Male
+55,72,46,Sometimes,No,Executive Leadership|Supervisor/Team Lead|Back-end Developer,United States of America,Male
+56,74,37,Always,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+57,78,33,Sometimes,No,Front-end Developer,United States of America,other
+58,79,33,Always,Yes,Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer,United States of America,Male
+59,80,21,Never,No,Back-end Developer|DevOps/SysAdmin,United Kingdom,Male
+60,81,36,Never,Yes,Back-end Developer,Brazil,Male
+61,82,39,Sometimes,Yes,Back-end Developer,Canada,Male
+62,83,35,Sometimes,No,Dev Evangelist/Advocate|Back-end Developer,United States of America,Male
+63,85,45,Never,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+64,86,41,Never,Maybe,Back-end Developer|Supervisor/Team Lead,Canada,Male
+65,87,35,Sometimes,Yes,Back-end Developer,United Kingdom,Male
+66,88,30,Sometimes,Maybe,Front-end Developer|Back-end Developer|Sales|Executive Leadership,United States of America,Male
+67,89,24,Sometimes,Yes,Back-end Developer,United States of America,Female
+68,90,33,Never,No,Other,Brazil,Male
+69,91,35,Sometimes,Maybe,Back-end Developer,United States of America,Male
+70,92,26,Sometimes,Yes,Supervisor/Team Lead,United Kingdom,Male
+71,93,17,Always,No,Front-end Developer,Brazil,Male
+72,94,29,Sometimes,Yes,Front-end Developer,United States of America,Female
+73,95,26,Sometimes,Yes,Back-end Developer,United States of America,Male
+74,96,36,Always,No,Front-end Developer,United States of America,Female
+75,97,46,Sometimes,No,Back-end Developer|DevOps/SysAdmin,United States of America,Male
+76,99,28,Sometimes,Yes,Back-end Developer,United States of America,Female
+77,100,40,Sometimes,No,DevOps/SysAdmin,United States of America,Male
+78,101,23,Sometimes,Yes,Back-end Developer,United States of America,Male
+79,102,30,Sometimes,No,Back-end Developer,United States of America,Male
+80,103,28,Sometimes,No,Designer,United States of America,Female
+81,105,31,Always,Maybe,One-person shop|Front-end Developer|Back-end Developer,United States of America,other
+82,106,39,Never,Maybe,Back-end Developer,United States of America,other
+83,107,34,Always,Yes,Supervisor/Team Lead,United States of America,Female
+84,108,30,Sometimes,Yes,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,United States of America,Male
+85,110,31,Sometimes,Maybe,Designer,United States of America,Male
+86,111,30,Always,Yes,Back-end Developer,United States of America,Male
+87,112,32,Sometimes,Maybe,Front-end Developer,United States of America,Male
+88,115,51,Sometimes,No,Executive Leadership|Supervisor/Team Lead,United States of America,Male
+89,116,26,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+90,117,41,Sometimes,No,Front-end Developer,United States of America,other
+91,118,39,Sometimes,Yes,Back-end Developer,United States of America,Female
+92,119,43,Sometimes,Maybe,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+93,120,30,Sometimes,Maybe,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,United Kingdom,Male
+94,121,24,Sometimes,No,Designer,United States of America,Female
+95,124,48,Sometimes,Yes,One-person shop|Designer|Front-end Developer|Support,United States of America,Female
+96,125,55,Always,Maybe,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin,United States of America,Female
+97,126,36,Sometimes,Maybe,Other,United States of America,Female
+98,129,44,Sometimes,No,Other,United States of America,Female
+99,130,45,Sometimes,Maybe,Back-end Developer,United States of America,Male
+100,131,45,Sometimes,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+101,132,30,Sometimes,Yes,Back-end Developer,United States of America,Male
+102,133,34,Sometimes,Yes,Back-end Developer,United States of America,Male
+103,134,37,Sometimes,No,Back-end Developer|Front-end Developer,United States of America,Male
+104,135,38,Sometimes,No,DevOps/SysAdmin,United States of America,Male
+105,136,31,Sometimes,Maybe,Front-end Developer,United States of America,Male
+106,137,33,Always,No,Other,United States of America,Male
+107,138,29,Sometimes,Yes,Other,United States of America,Female
+108,139,35,Sometimes,Yes,Back-end Developer,United States of America,Male
+109,140,42,Always,Yes,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer|Front-end Developer,Canada,other
+110,141,26,Sometimes,No,Supervisor/Team Lead|Front-end Developer,United States of America,Female
+111,142,36,Always,Maybe,Front-end Developer,United States of America,other
+112,143,21,Never,Yes,Front-end Developer,United Kingdom,Male
+113,144,34,Sometimes,Yes,Supervisor/Team Lead,United States of America,Female
+114,146,35,Sometimes,Yes,Other|Back-end Developer|Front-end Developer|Designer,United States of America,Male
+115,147,44,Sometimes,No,Executive Leadership|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+116,148,35,Sometimes,No,Front-end Developer,Canada,other
+117,149,45,Sometimes,No,Other,United States of America,other
+118,150,42,Sometimes,Yes,Supervisor/Team Lead,United States of America,other
+119,151,40,Always,Yes,One-person shop|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+120,152,50,Always,No,One-person shop,United States of America,Female
+121,153,36,Always,Maybe,Back-end Developer,United States of America,Male
+122,154,31,Always,Yes,Other|Supervisor/Team Lead|Back-end Developer|One-person shop,United States of America,Female
+123,155,29,Always,No,Back-end Developer,United States of America,Male
+124,156,37,Never,No,Other,United States of America,Male
+125,157,31,Sometimes,Yes,Dev Evangelist/Advocate|Support,United States of America,other
+126,158,42,Always,No,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin,Canada,Male
+127,159,25,Sometimes,No,Support,United States of America,Male
+128,160,27,Sometimes,Yes,Executive Leadership,United States of America,Male
+129,161,41,Never,Yes,Back-end Developer,United States of America,Female
+130,162,41,Sometimes,Yes,Executive Leadership,United States of America,Female
+131,163,55,Never,No,HR,United States of America,Female
+132,164,21,Never,Yes,Dev Evangelist/Advocate,United States of America,Male
+133,167,40,Never,Maybe,Back-end Developer,United Kingdom,Male
+134,171,35,Always,No,Front-end Developer|Back-end Developer,United States of America,Male
+135,172,37,Always,No,Back-end Developer,United States of America,Male
+136,173,45,Sometimes,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+137,174,26,Never,Yes,Front-end Developer,United States of America,Male
+138,175,23,Sometimes,No,Front-end Developer,United States of America,Male
+139,176,22,Sometimes,Yes,Front-end Developer,United States of America,Female
+140,177,46,Always,Yes,Back-end Developer,United States of America,Female
+141,178,31,Sometimes,No,Other,United Kingdom,Male
+142,179,27,Always,Yes,Dev Evangelist/Advocate|Back-end Developer|Support,United States of America,Male
+143,180,37,Sometimes,No,Back-end Developer|DevOps/SysAdmin,United Kingdom,Male
+144,181,37,Never,No,DevOps/SysAdmin,United Kingdom,Male
+145,184,40,Never,Yes,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,Male
+146,186,37,Sometimes,Yes,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,United States of America,Male
+147,187,34,Never,No,Other|HR,United States of America,Female
+148,188,40,Sometimes,Yes,Support|Back-end Developer,United States of America,Male
+149,189,39,Sometimes,Maybe,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+150,190,28,Always,Yes,Back-end Developer,United States of America,Male
+151,193,48,Sometimes,Maybe,Other,United Kingdom,Male
+152,194,49,Sometimes,Yes,DevOps/SysAdmin|Support,United States of America,Female
+153,195,35,Never,Yes,Back-end Developer,United Kingdom,Male
+154,197,38,Always,Yes,Dev Evangelist/Advocate,United Kingdom,Male
+155,198,32,Sometimes,No,Executive Leadership|Supervisor/Team Lead,United States of America,Male
+156,199,42,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+157,200,33,Always,Maybe,Support,United States of America,Female
+158,201,35,Always,No,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,United Kingdom,Male
+159,203,29,Sometimes,Yes,Other,United States of America,other
+160,204,29,Always,Maybe,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+161,205,24,Sometimes,No,Supervisor/Team Lead,United Kingdom,Male
+162,207,30,Always,Yes,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+163,208,44,Always,Yes,Support,United States of America,Male
+164,209,37,Always,No,Dev Evangelist/Advocate,United Kingdom,Male
+165,211,42,Always,No,Supervisor/Team Lead,United States of America,Male
+166,212,30,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,United Kingdom,Female
+167,215,29,Always,No,Back-end Developer,United States of America,Male
+168,216,25,Sometimes,No,Other,United States of America,Male
+169,221,37,Sometimes,No,Back-end Developer,Canada,Male
+170,222,35,Never,No,Back-end Developer,United States of America,Male
+171,224,31,Always,No,Back-end Developer|DevOps/SysAdmin,United Kingdom,Male
+172,225,29,Always,No,Support|Other,United States of America,Female
+173,228,30,Sometimes,Maybe,Back-end Developer,United States of America,Male
+174,229,29,Never,Yes,Other,United States of America,Female
+175,230,25,Sometimes,Yes,HR,United States of America,Female
+176,231,27,Never,No,Back-end Developer,United States of America,Male
+177,233,38,Always,No,Other,United States of America,Female
+178,234,49,Sometimes,Yes,Other,United States of America,Male
+179,235,30,Sometimes,No,Dev Evangelist/Advocate,United States of America,Male
+180,238,29,Sometimes,Maybe,Front-end Developer|Back-end Developer|Sales|DevOps/SysAdmin,United States of America,Male
+181,241,28,Sometimes,No,Front-end Developer|Back-end Developer|Support,United States of America,Male
+182,242,35,Always,No,One-person shop|Back-end Developer|Supervisor/Team Lead,United Kingdom,other
+183,245,37,Sometimes,Maybe,Other,United States of America,Female
+184,246,45,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin,United Kingdom,Male
+185,247,31,Always,Yes,Front-end Developer|Designer,United States of America,other
+186,248,36,Never,No,Back-end Developer|Front-end Developer,United States of America,Male
+187,249,30,Never,Yes,Other|Support,United States of America,Male
+188,250,33,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Female
+189,251,45,Always,Yes,HR,Canada,Female
+190,252,30,Sometimes,Yes,Supervisor/Team Lead,United States of America,Female
+191,253,30,Sometimes,Yes,Supervisor/Team Lead|Front-end Developer,United States of America,Male
+192,254,29,Always,Yes,DevOps/SysAdmin|One-person shop|Front-end Developer|Back-end Developer,United States of America,Male
+193,256,28,Never,Maybe,Front-end Developer,United States of America,Male
+194,257,36,Sometimes,Yes,Front-end Developer,United States of America,Male
+195,258,37,Sometimes,Maybe,Executive Leadership,United States of America,Female
+196,259,29,Sometimes,Maybe,Front-end Developer,United States of America,Male
+197,260,25,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+198,261,34,Sometimes,No,Supervisor/Team Lead,United States of America,other
+199,262,37,Sometimes,No,Support,Canada,Male
+200,263,40,Sometimes,Yes,Executive Leadership|Dev Evangelist/Advocate,United States of America,Female
+201,264,32,Always,Maybe,DevOps/SysAdmin,United States of America,Male
+202,265,38,Never,No,Back-end Developer|Dev Evangelist/Advocate,United Kingdom,Male
+203,266,31,Sometimes,Yes,Front-end Developer,United States of America,Female
+204,267,28,Sometimes,No,Other,United States of America,Female
+205,268,27,Sometimes,Yes,Other,United Kingdom,Female
+206,269,28,Sometimes,Yes,Front-end Developer,United States of America,Female
+207,271,40,Sometimes,No,Support|HR|Supervisor/Team Lead|Executive Leadership,United States of America,Male
+208,272,42,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Male
+209,273,36,Never,No,Front-end Developer,United States of America,Male
+210,274,44,Never,Maybe,Front-end Developer|Back-end Developer|Support,United Kingdom,Male
+211,275,24,Never,Yes,Back-end Developer,United States of America,Male
+212,276,44,Never,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,United States of America,Male
+213,277,31,Always,Yes,Dev Evangelist/Advocate,United States of America,Male
+214,278,49,Sometimes,Maybe,One-person shop|Back-end Developer,United States of America,other
+215,279,27,Sometimes,No,Back-end Developer|Front-end Developer,United States of America,Female
+216,280,27,Always,No,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,United States of America,other
+217,281,28,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+218,282,20,Never,Maybe,Back-end Developer|Front-end Developer,United States of America,Female
+219,284,38,Sometimes,Yes,Back-end Developer,Australia,Male
+220,285,29,Never,Yes,Other,United States of America,Male
+221,286,44,Always,Yes,Supervisor/Team Lead,United States of America,other
+222,287,31,Sometimes,No,Back-end Developer,United States of America,other
+223,288,54,Sometimes,Yes,Back-end Developer,United States of America,other
+224,291,26,Sometimes,Maybe,DevOps/SysAdmin|Back-end Developer,United Kingdom,other
+225,292,26,Never,Maybe,Back-end Developer,United Kingdom,Male
+226,293,34,Sometimes,Yes,One-person shop,United Kingdom,Male
+227,294,38,Sometimes,Maybe,Back-end Developer,United States of America,Female
+228,295,30,Sometimes,Yes,Back-end Developer,United Kingdom,Male
+229,296,34,Sometimes,Yes,Front-end Developer|Back-end Developer|Supervisor/Team Lead,United Kingdom,Male
+230,297,47,Sometimes,Yes,Support,Australia,Female
+231,299,22,Sometimes,No,Front-end Developer,United Kingdom,Male
+232,300,28,Never,Maybe,Front-end Developer,United Kingdom,other
+233,301,31,Always,Yes,Support,United Kingdom,other
+234,302,24,Sometimes,Yes,Back-end Developer|Front-end Developer,United Kingdom,other
+235,303,56,Sometimes,No,DevOps/SysAdmin,Australia,other
+236,304,57,Always,Yes,Back-end Developer,Australia,Female
+237,306,21,Never,No,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,United Kingdom,Male
+238,308,63,Always,Yes,DevOps/SysAdmin|Back-end Developer|One-person shop|Front-end Developer,Canada,Male
+239,309,46,Always,Yes,Designer,Australia,Male
+240,310,32,Never,Yes,Back-end Developer,United Kingdom,Female
+241,311,35,Sometimes,Yes,One-person shop|DevOps/SysAdmin|Executive Leadership,United Kingdom,other
+242,312,34,Sometimes,No,Supervisor/Team Lead,United Kingdom,Male
+243,313,35,Always,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+244,315,35,Always,Yes,Back-end Developer,United States of America,Female
+245,316,36,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+246,317,50,Sometimes,No,Back-end Developer,United States of America,Male
+247,318,31,Sometimes,Yes,Supervisor/Team Lead,United States of America,Male
+248,319,47,Never,No,Dev Evangelist/Advocate|Back-end Developer,United States of America,Male
+249,320,32,Never,No,Front-end Developer|Back-end Developer|Supervisor/Team Lead,Canada,Female
+250,321,23,Never,Yes,Designer,Canada,Female
+251,322,43,Sometimes,Yes,Sales,Canada,Female
+252,323,26,Sometimes,No,Designer,Canada,Female
+253,324,26,Never,Maybe,Other,Canada,Female
+254,325,55,Sometimes,No,Executive Leadership,Canada,Female
+255,326,27,Never,Yes,Other,Canada,Male
+256,329,35,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+257,331,38,Sometimes,Yes,Other,United States of America,Female
+258,332,29,Never,Maybe,Front-end Developer,Canada,Male
+259,333,28,Always,Maybe,Designer,United Kingdom,Male
+260,334,29,Always,Maybe,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United Kingdom,Male
+261,335,40,Always,Maybe,Dev Evangelist/Advocate,United States of America,Male
+262,336,25,Sometimes,Yes,Front-end Developer|Supervisor/Team Lead,United States of America,Female
+263,338,29,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin,United States of America,Female
+264,340,25,Sometimes,No,Back-end Developer|Front-end Developer,United States of America,Male
+265,341,43,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+266,344,31,Always,No,Other,United States of America,Female
+267,345,45,Always,Yes,DevOps/SysAdmin|Back-end Developer,United States of America,Female
+268,347,39,Never,No,Supervisor/Team Lead,United States of America,Male
+269,348,27,Sometimes,No,Other,United States of America,Female
+270,349,28,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+271,350,36,Always,Maybe,Dev Evangelist/Advocate|DevOps/SysAdmin,United States of America,Male
+272,352,51,Never,No,Support|Back-end Developer|Front-end Developer,United States of America,Male
+273,354,36,Sometimes,Yes,One-person shop|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,United States of America,Male
+274,355,28,Sometimes,Yes,DevOps/SysAdmin|Support,United States of America,Male
+275,356,40,Always,No,Dev Evangelist/Advocate|Back-end Developer|Designer|Front-end Developer,United States of America,Male
+276,357,35,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Female
+277,358,38,Never,Yes,Supervisor/Team Lead,United States of America,Male
+278,359,29,Always,Maybe,Back-end Developer,United States of America,Male
+279,361,31,Always,Yes,Back-end Developer,United States of America,other
+280,362,45,Sometimes,No,Other,United States of America,Male
+281,363,26,Sometimes,Maybe,Other|Dev Evangelist/Advocate|Sales|Back-end Developer|Front-end Developer,United States of America,Male
+282,364,42,Always,No,DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership,United States of America,Male
+283,365,28,Always,No,Support,United States of America,other
+284,366,28,Sometimes,No,One-person shop,United Kingdom,Male
+285,367,39,Sometimes,Yes,Back-end Developer,United States of America,Female
+286,368,34,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Designer,United States of America,other
+287,369,28,Always,Yes,Support|Back-end Developer,United States of America,Female
+288,370,35,Sometimes,No,Supervisor/Team Lead,United States of America,Female
+289,371,42,Sometimes,No,HR|Supervisor/Team Lead|Executive Leadership,Canada,Male
+290,372,99,Sometimes,Yes,Supervisor/Team Lead,United States of America,other
+291,373,29,Always,Maybe,Back-end Developer,United Kingdom,Male
+292,375,28,Always,No,Front-end Developer|Back-end Developer,Canada,Male
+293,377,28,Sometimes,Yes,Back-end Developer,United States of America,Female
+294,378,26,Always,Yes,One-person shop,United States of America,Female
+295,379,21,Never,Maybe,Other,Australia,other
+296,381,33,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+297,382,28,Sometimes,Yes,Back-end Developer,United States of America,Female
+298,383,32,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Male
+299,384,24,Sometimes,Yes,Front-end Developer,Australia,Female
+300,385,35,Always,Maybe,Other,United States of America,Male
+301,386,41,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+302,387,38,Always,No,HR,United States of America,Female
+303,388,24,Sometimes,Yes,Back-end Developer,United States of America,Female
+304,389,30,Sometimes,Yes,Back-end Developer,United States of America,Male
+305,390,47,Sometimes,No,Sales,United States of America,Female
+306,391,26,Never,No,Front-end Developer,United States of America,Female
+307,392,32,Always,Yes,DevOps/SysAdmin|Supervisor/Team Lead,United States of America,Male
+308,393,32,Sometimes,Maybe,Back-end Developer,United States of America,Male
+309,394,37,Always,Yes,Supervisor/Team Lead,United States of America,Male
+310,396,28,Sometimes,Maybe,Sales,United Kingdom,other
+311,398,30,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Male
+312,399,42,Always,No,Other,United States of America,Female
+313,400,34,Never,No,Back-end Developer|DevOps/SysAdmin,United States of America,Male
+314,401,32,Sometimes,Maybe,Back-end Developer,United States of America,Male
+315,402,37,Always,Yes,Support,United Kingdom,Male
+316,403,31,Always,No,One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate,United States of America,Female
+317,404,31,Always,Yes,Dev Evangelist/Advocate|Support|Back-end Developer,United States of America,Male
+318,406,30,Sometimes,Maybe,One-person shop,United States of America,Male
+319,407,36,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,other
+320,408,38,Always,No,Back-end Developer,United States of America,Male
+321,409,24,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+322,410,26,Sometimes,Yes,Back-end Developer,United States of America,Male
+323,411,37,Never,Maybe,Dev Evangelist/Advocate|DevOps/SysAdmin,United States of America,Male
+324,412,27,Never,Yes,Designer,United Kingdom,Female
+325,417,27,Never,Yes,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Other,United Kingdom,Female
+326,421,23,Never,No,Back-end Developer,United States of America,Female
+327,422,30,Sometimes,No,Supervisor/Team Lead|Support,United States of America,Male
+328,423,40,Sometimes,Yes,Supervisor/Team Lead,United States of America,Male
+329,424,46,Sometimes,Maybe,Supervisor/Team Lead|Support,United States of America,Male
+330,425,26,Sometimes,No,Back-end Developer,United States of America,Male
+331,426,30,Sometimes,No,DevOps/SysAdmin,United States of America,other
+332,427,27,Always,No,Back-end Developer,Canada,other
+333,428,35,Always,Yes,Executive Leadership,United States of America,Male
+334,429,26,Sometimes,Yes,HR|Dev Evangelist/Advocate|Sales,United States of America,other
+335,430,35,Always,No,Back-end Developer,Australia,Male
+336,432,34,Sometimes,No,Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,United Kingdom,Male
+337,433,27,Sometimes,No,DevOps/SysAdmin|One-person shop,United States of America,Male
+338,434,39,Sometimes,Maybe,Executive Leadership,United Kingdom,Male
+339,435,27,Sometimes,No,Back-end Developer|DevOps/SysAdmin,United Kingdom,Male
+340,437,26,Never,No,Supervisor/Team Lead|Front-end Developer|Back-end Developer,United Kingdom,Male
+341,438,44,Always,Maybe,Back-end Developer,United States of America,Male
+342,439,27,Sometimes,No,Back-end Developer,United States of America,Male
+343,440,57,Sometimes,Yes,Back-end Developer|Front-end Developer|Designer,United States of America,Female
+344,441,34,Sometimes,No,Executive Leadership,Canada,other
+345,442,38,Sometimes,Yes,One-person shop|Back-end Developer|Other,United States of America,Male
+346,443,55,Always,Maybe,One-person shop|Back-end Developer,United States of America,Male
+347,445,35,Never,Maybe,Supervisor/Team Lead|DevOps/SysAdmin,United States of America,Male
+348,446,26,Always,Yes,Back-end Developer,United States of America,Male
+349,447,22,Never,Maybe,Front-end Developer|Back-end Developer,United States of America,Female
+350,448,31,Sometimes,No,Back-end Developer,United States of America,Male
+351,449,31,Never,No,Back-end Developer,United Kingdom,Male
+352,451,26,Sometimes,Yes,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,other
+353,452,36,Sometimes,Yes,One-person shop,United States of America,Male
+354,453,33,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+355,454,24,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+356,456,33,Always,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Support,United States of America,Male
+357,457,37,Sometimes,Yes,Support,United States of America,other
+358,458,29,Always,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+359,459,38,Sometimes,No,Back-end Developer,United States of America,Male
+360,460,33,Sometimes,Maybe,DevOps/SysAdmin|Back-end Developer,United States of America,other
+361,461,44,Always,Maybe,Executive Leadership,Canada,Female
+362,462,23,Sometimes,Yes,Back-end Developer,United States of America,Male
+363,463,30,Sometimes,No,One-person shop,United States of America,Male
+364,464,30,Never,Yes,Back-end Developer|Front-end Developer,United States of America,other
+365,465,28,Sometimes,No,Back-end Developer,United States of America,Male
+366,466,39,Never,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+367,467,24,Never,Yes,Front-end Developer,United States of America,Female
+368,469,35,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+369,470,23,Never,Maybe,Front-end Developer,United States of America,Male
+370,471,37,Sometimes,No,Other,United States of America,Male
+371,472,35,Sometimes,No,DevOps/SysAdmin|Front-end Developer|Back-end Developer,United States of America,Male
+372,473,27,Sometimes,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,Male
+373,474,27,Always,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,United States of America,Female
+374,475,27,Never,No,Front-end Developer,United States of America,Female
+375,476,42,Sometimes,Yes,Front-end Developer|Back-end Developer,United States of America,other
+376,477,32,Never,No,Front-end Developer,United States of America,other
+377,480,28,Sometimes,No,Front-end Developer,United States of America,Male
+378,481,32,Sometimes,No,Front-end Developer|Back-end Developer,United States of America,Male
+379,482,43,Always,Yes,Front-end Developer|Back-end Developer,United States of America,Male
+380,483,34,Never,Yes,Back-end Developer,United States of America,Male
+381,484,61,Sometimes,Maybe,Other,United States of America,other
+382,485,50,Always,Yes,Back-end Developer,United States of America,Male
+383,489,34,Always,Yes,Front-end Developer|Designer,United States of America,Male
+384,490,43,Always,Maybe,Front-end Developer|Back-end Developer,United States of America,Male
+385,491,43,Sometimes,Maybe,DevOps/SysAdmin,United States of America,Female
+386,492,44,Always,Yes,DevOps/SysAdmin,United States of America,Male
+387,493,35,Sometimes,Maybe,DevOps/SysAdmin,United States of America,other
+388,494,50,Always,No,Back-end Developer,United States of America,Male
+389,495,29,Sometimes,Maybe,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+390,496,29,Never,Yes,Front-end Developer,United States of America,Male
+391,497,36,Sometimes,No,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,Canada,Male
+392,498,33,Sometimes,Maybe,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,Australia,Male
+393,499,50,Sometimes,Maybe,One-person shop,Australia,Male
+394,500,46,Always,Maybe,DevOps/SysAdmin,United States of America,Male
+395,502,23,Sometimes,Maybe,DevOps/SysAdmin,United States of America,other
+396,503,41,Sometimes,Maybe,Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+397,504,31,Sometimes,Maybe,Front-end Developer,Canada,Male
+398,505,55,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+399,506,34,Sometimes,No,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+400,507,28,Always,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+401,508,33,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer,United States of America,other
+402,509,29,Sometimes,No,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+403,510,33,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Female
+404,511,28,Sometimes,No,Other|Dev Evangelist/Advocate|One-person shop,United States of America,Male
+405,512,28,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Male
+406,513,32,Sometimes,No,DevOps/SysAdmin,United States of America,Male
+407,514,36,Never,Maybe,Front-end Developer,United States of America,Female
+408,515,45,Sometimes,Maybe,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United Kingdom,Male
+409,518,54,Always,Maybe,One-person shop,Canada,Female
+410,519,61,Sometimes,Yes,Other|Back-end Developer|Front-end Developer|One-person shop,United States of America,Female
+411,520,29,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Female
+412,521,31,Sometimes,No,Back-end Developer,Australia,Male
+413,522,37,Always,No,Other|One-person shop|Back-end Developer|Sales|Support|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,United States of America,Male
+414,524,28,Always,No,Back-end Developer|One-person shop,United Kingdom,Male
+415,525,30,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United Kingdom,Male
+416,526,55,Always,No,Front-end Developer,United Kingdom,Male
+417,527,38,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+418,528,20,Sometimes,No,Back-end Developer|Front-end Developer,Canada,Male
+419,529,25,Sometimes,No,Support|Back-end Developer|Front-end Developer,United States of America,Male
+420,531,35,Sometimes,Yes,One-person shop|Designer|Front-end Developer|Back-end Developer|Support,United Kingdom,Male
+421,532,27,Never,Yes,Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+422,533,24,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer,United States of America,Male
+423,534,39,Always,Yes,One-person shop|Front-end Developer|Back-end Developer|Sales|Support|DevOps/SysAdmin,Australia,Male
+424,535,29,Never,Maybe,Back-end Developer|Front-end Developer,Brazil,Male
+425,536,40,Never,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Female
+426,537,30,Always,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,United States of America,Male
+427,538,32,Sometimes,No,DevOps/SysAdmin|Supervisor/Team Lead,Canada,Male
+428,540,35,Sometimes,Yes,Other|Back-end Developer,Canada,Female
+429,541,30,Sometimes,Maybe,DevOps/SysAdmin|Support|Sales|One-person shop|Designer|Front-end Developer|Back-end Developer,United States of America,Male
+430,542,36,Never,No,Back-end Developer,United Kingdom,Male
+431,546,30,Sometimes,Yes,Executive Leadership,United Kingdom,Male
+432,547,46,Always,Yes,Other,United Kingdom,other
+433,548,32,Sometimes,No,Dev Evangelist/Advocate,United States of America,Male
+434,549,34,Sometimes,No,Back-end Developer,United States of America,Male
+435,550,41,Always,Yes,DevOps/SysAdmin,United States of America,Male
+436,551,32,Always,No,Back-end Developer,United States of America,Male
+437,552,47,Sometimes,No,Executive Leadership,United States of America,Male
+438,553,29,Always,No,DevOps/SysAdmin,United States of America,Male
+439,554,36,Sometimes,No,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+440,555,32,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+441,556,29,Sometimes,Maybe,DevOps/SysAdmin,United States of America,Male
+442,557,22,Never,No,Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead,United Kingdom,Male
+443,558,32,Sometimes,Yes,Back-end Developer,United States of America,Female
+444,559,19,Never,No,Front-end Developer,United States of America,Female
+445,561,32,Always,Maybe,Other|Back-end Developer,United States of America,other
+446,562,22,Sometimes,No,Front-end Developer,United States of America,Male
+447,564,323,Sometimes,No,Back-end Developer,United States of America,Male
+448,566,48,Never,No,Front-end Developer,United Kingdom,other
+449,568,28,Sometimes,No,Back-end Developer,United Kingdom,Male
+450,569,44,Sometimes,No,Back-end Developer,United States of America,Male
+451,570,31,Sometimes,No,Supervisor/Team Lead|Front-end Developer|Back-end Developer,United States of America,Male
+452,571,31,Sometimes,Yes,Back-end Developer,United States of America,other
+453,572,29,Never,No,DevOps/SysAdmin,United States of America,Male
+454,573,26,Never,No,Front-end Developer|Back-end Developer|Support|Dev Evangelist/Advocate,United States of America,Male
+455,574,35,Sometimes,Yes,Front-end Developer|Designer,United States of America,other
+456,576,45,Always,Yes,Dev Evangelist/Advocate,United States of America,Male
+457,577,22,Sometimes,Yes,Executive Leadership|Supervisor/Team Lead|HR|DevOps/SysAdmin|Support|Sales|Back-end Developer|One-person shop|Designer|Front-end Developer,United States of America,Female
+458,578,34,Sometimes,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+459,579,35,Never,Maybe,Supervisor/Team Lead|Front-end Developer,United Kingdom,Male
+460,580,39,Sometimes,Yes,Other,United States of America,Male
+461,582,41,Sometimes,No,Executive Leadership,United States of America,Male
+462,583,24,Sometimes,Yes,Back-end Developer|Front-end Developer|Designer,Australia,Male
+463,584,24,Never,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+464,585,34,Sometimes,Yes,Back-end Developer,United States of America,Male
+465,586,36,Sometimes,No,Supervisor/Team Lead,Australia,Male
+466,587,41,Sometimes,Maybe,Supervisor/Team Lead,Australia,Male
+467,588,21,Never,Yes,DevOps/SysAdmin,United States of America,Male
+468,591,62,Never,Yes,Back-end Developer|One-person shop,United States of America,Female
+469,592,37,Sometimes,Yes,Back-end Developer,United States of America,Male
+470,593,32,Always,Maybe,Support|Back-end Developer,United States of America,Male
+471,594,31,Sometimes,No,Supervisor/Team Lead|Executive Leadership,United States of America,Male
+472,595,28,Sometimes,Maybe,Front-end Developer|Back-end Developer,United States of America,Male
+473,596,48,Always,Yes,One-person shop|Front-end Developer,United States of America,Female
+474,601,24,Sometimes,No,One-person shop,Australia,other
+475,603,42,Always,Maybe,Dev Evangelist/Advocate,United States of America,Male
+476,604,28,Sometimes,No,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,United Kingdom,other
+477,605,40,Always,Yes,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,Canada,Male
+478,606,32,Always,Maybe,Dev Evangelist/Advocate,United States of America,Female
+479,607,33,Always,Maybe,Front-end Developer|Back-end Developer,United States of America,Male
+480,608,40,Always,Maybe,One-person shop,United States of America,other
+481,609,26,Never,Yes,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+482,610,39,Sometimes,Yes,Dev Evangelist/Advocate|Support|Back-end Developer|Front-end Developer,United States of America,Female
+483,611,38,Never,Maybe,DevOps/SysAdmin|Supervisor/Team Lead,United Kingdom,Male
+484,612,34,Sometimes,Yes,Back-end Developer,United States of America,Male
+485,614,54,Always,Maybe,One-person shop|Back-end Developer,United Kingdom,Male
+486,616,31,Sometimes,Yes,Front-end Developer,United States of America,Male
+487,617,47,Sometimes,Yes,Other,United States of America,other
+488,618,30,Sometimes,Yes,Support,Australia,Male
+489,619,34,Always,No,One-person shop|Back-end Developer|Sales|Support|Supervisor/Team Lead|Executive Leadership,United States of America,Male
+490,620,29,Sometimes,Yes,Back-end Developer,United States of America,other
+491,621,27,Sometimes,No,Front-end Developer|Back-end Developer|Support,United States of America,Male
+492,622,29,Never,Yes,DevOps/SysAdmin|Support,United States of America,Male
+493,623,43,Sometimes,Maybe,One-person shop,United States of America,Female
+494,624,31,Sometimes,Yes,Designer,United States of America,other
+495,626,29,Never,Yes,DevOps/SysAdmin,United Kingdom,Male
+496,627,29,Never,No,Back-end Developer,United Kingdom,Male
+497,628,42,Sometimes,Yes,Supervisor/Team Lead,United States of America,Male
+498,629,26,Always,No,Front-end Developer|Back-end Developer,United States of America,Female
+499,631,34,Sometimes,Yes,Front-end Developer,United Kingdom,Male
+500,632,24,Sometimes,No,Other,United States of America,Male
+501,633,25,Never,No,Other,United States of America,Male
+502,634,22,Sometimes,No,Back-end Developer,United States of America,Male
+503,635,33,Sometimes,Yes,DevOps/SysAdmin|Support|Back-end Developer,United States of America,Male
+504,636,53,Always,No,Executive Leadership,United States of America,other
+505,637,32,Never,Yes,Back-end Developer,Canada,Male
+506,638,32,Sometimes,No,Executive Leadership,United States of America,Male
+507,639,55,Sometimes,Maybe,Back-end Developer|One-person shop,United States of America,other
+508,641,34,Always,No,Back-end Developer|Supervisor/Team Lead,United Kingdom,Male
+509,642,26,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+510,643,25,Never,Yes,Other,United States of America,other
+511,644,39,Sometimes,Maybe,Front-end Developer|Back-end Developer|Supervisor/Team Lead,United Kingdom,Male
+512,645,32,Never,Maybe,Back-end Developer,United States of America,Male
+513,646,46,Sometimes,Maybe,Designer|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Supervisor/Team Lead,United Kingdom,Male
+514,647,52,Sometimes,No,One-person shop,United States of America,Female
+515,648,33,Never,Maybe,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer,United Kingdom,other
+516,649,58,Sometimes,No,Back-end Developer,United States of America,Male
+517,650,30,Never,Yes,Front-end Developer|Designer,Canada,Male
+518,652,45,Sometimes,Yes,Front-end Developer,United States of America,Male
+519,653,26,Sometimes,No,Front-end Developer,Canada,other
+520,654,22,Never,Yes,DevOps/SysAdmin|Support,United States of America,Male
+521,655,21,Sometimes,No,Back-end Developer,United States of America,Male
+522,656,3,Sometimes,Maybe,Back-end Developer,Canada,Male
+523,657,34,Sometimes,No,Executive Leadership|Supervisor/Team Lead,United States of America,other
+524,658,25,Sometimes,No,Back-end Developer,United States of America,Female
+525,659,27,Sometimes,Yes,Executive Leadership|Supervisor/Team Lead|Sales,United States of America,Male
+526,660,25,Never,Yes,Back-end Developer,United States of America,other
+527,661,33,Sometimes,Maybe,Other|Front-end Developer|Designer,United Kingdom,Male
+528,662,26,Always,Yes,Front-end Developer,Canada,Female
+529,663,36,Always,No,Other,United States of America,Female
+530,664,26,Never,Maybe,Back-end Developer,United Kingdom,Male
+531,665,34,Never,Maybe,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+532,666,34,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+533,667,25,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+534,668,33,Sometimes,Maybe,One-person shop|Designer|Front-end Developer|Supervisor/Team Lead,United States of America,Female
+535,669,27,Sometimes,No,Front-end Developer,Canada,other
+536,670,24,Never,No,Designer|Front-end Developer,Canada,Female
+537,671,47,Sometimes,No,DevOps/SysAdmin|One-person shop,United States of America,Female
+538,672,37,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+539,673,35,Sometimes,Yes,Designer|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Other,United States of America,other
+540,674,30,Always,Yes,Support,United States of America,Male
+541,675,42,Never,No,Other|Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,United States of America,Male
+542,676,36,Sometimes,Yes,Designer,United States of America,Female
+543,677,31,Always,Maybe,Back-end Developer,United States of America,Male
+544,678,28,Always,Maybe,Back-end Developer|Front-end Developer,United States of America,Female
+545,679,36,Sometimes,Yes,Other,United States of America,Female
+546,680,36,Never,Yes,Other,United States of America,Female
+547,681,32,Sometimes,Maybe,Front-end Developer,Canada,other
+548,682,42,Always,No,One-person shop,United States of America,Male
+549,683,41,Never,Maybe,Supervisor/Team Lead|Front-end Developer,United States of America,Female
+550,685,23,Sometimes,Yes,Back-end Developer,United States of America,Male
+551,686,54,Never,Yes,Other,United States of America,Female
+552,687,34,Never,No,Other,United States of America,Female
+553,689,27,Never,No,Front-end Developer,United States of America,Male
+554,690,32,Always,Yes,Designer,United States of America,Male
+555,692,44,Always,No,Other,United States of America,other
+556,693,33,Always,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,other
+557,694,38,Sometimes,Yes,Supervisor/Team Lead|Support,United Kingdom,Male
+558,696,38,Always,No,Designer,United States of America,Female
+559,697,22,Always,No,Other,Brazil,Female
+560,698,33,Sometimes,Yes,Other|Executive Leadership|Supervisor/Team Lead|HR|Support|Sales|Designer|One-person shop,United States of America,other
+561,699,27,Never,No,Front-end Developer,Canada,other
+562,700,55,Sometimes,Yes,One-person shop,United States of America,Female
+563,701,66,Sometimes,Yes,Front-end Developer,United States of America,Male
+564,702,25,Sometimes,Maybe,Back-end Developer|Support|DevOps/SysAdmin,United States of America,Male
+565,704,29,Sometimes,No,Front-end Developer,Brazil,Male
+566,707,44,Sometimes,Maybe,Front-end Developer,United States of America,Male
+567,709,32,Always,No,Supervisor/Team Lead|Designer|Front-end Developer|Support,United States of America,Male
+568,710,59,Never,No,Support,United States of America,Female
+569,713,32,Always,No,Other,United States of America,Male
+570,714,41,Never,Maybe,Front-end Developer,United Kingdom,Male
+571,715,38,Always,Yes,Front-end Developer|Back-end Developer,United States of America,other
+572,716,46,Sometimes,Yes,Executive Leadership|One-person shop|Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead,United States of America,Male
+573,717,43,Never,No,Supervisor/Team Lead,United Kingdom,Male
+574,718,29,Always,Yes,Other,United States of America,Female
+575,719,42,Always,No,Back-end Developer,United States of America,Male
+576,720,25,Never,No,Back-end Developer|Front-end Developer,United States of America,other
+577,723,30,Always,No,One-person shop,United Kingdom,Male
+578,724,28,Sometimes,No,Other,United States of America,Male
+579,725,37,Sometimes,Yes,Support|Front-end Developer|Designer,United States of America,other
+580,726,23,Sometimes,Yes,Other|Support|Back-end Developer|Front-end Developer|Designer,United States of America,Female
+581,727,37,Sometimes,No,DevOps/SysAdmin,United Kingdom,Male
+582,729,32,Never,Yes,Other,United States of America,Male
+583,730,28,Always,Maybe,Front-end Developer,Canada,Male
+584,731,28,Never,Yes,Back-end Developer,United Kingdom,Male
+585,732,29,Never,Yes,Back-end Developer,United States of America,Male
+586,733,35,Always,Maybe,Supervisor/Team Lead,United States of America,Male
+587,734,31,Sometimes,Yes,Back-end Developer,United States of America,Female
+588,735,46,Never,Yes,One-person shop,United States of America,Female
+589,736,19,Sometimes,Maybe,Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Support,United States of America,Male
+590,738,31,Sometimes,No,Back-end Developer,United Kingdom,Male
+591,739,31,Sometimes,No,Executive Leadership,United States of America,Male
+592,740,37,Always,No,Front-end Developer,Canada,other
+593,741,34,Sometimes,Yes,Support,United States of America,Female
+594,742,39,Sometimes,No,Other|Front-end Developer,United States of America,Female
+595,743,29,Always,No,Front-end Developer|One-person shop,United States of America,Female
+596,744,29,Always,Yes,Back-end Developer,United States of America,Female
+597,745,63,Sometimes,No,Back-end Developer,United States of America,Male
+598,746,45,Never,Yes,Designer|Front-end Developer|Back-end Developer|Sales|Supervisor/Team Lead,Australia,Male
+599,748,32,Always,Maybe,Back-end Developer|One-person shop,United Kingdom,Male
+600,749,44,Always,No,One-person shop,United States of America,Male
+601,750,28,Never,Yes,Support,United Kingdom,other
+602,752,55,Sometimes,Maybe,One-person shop,United States of America,Female
+603,753,33,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support,United States of America,Female
+604,755,40,Always,Maybe,Other,United States of America,Male
+605,756,49,Sometimes,No,Supervisor/Team Lead,United States of America,Female
+606,757,27,Sometimes,No,Front-end Developer,Australia,Female
+607,758,39,Never,Yes,Designer,United States of America,Male
+608,759,35,Never,Yes,Support,United Kingdom,Male
+609,760,35,Sometimes,Maybe,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,United States of America,Male
+610,761,42,Sometimes,Yes,Designer,United States of America,Female
+611,762,35,Sometimes,No,One-person shop,Canada,Male
+612,763,31,Sometimes,No,Support|Back-end Developer,United States of America,Female
+613,764,44,Always,Yes,Front-end Developer|Back-end Developer|DevOps/SysAdmin,United Kingdom,other
+614,765,39,Sometimes,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Front-end Developer|Back-end Developer,United States of America,Male
+615,766,32,Always,No,DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,Canada,Male
+616,768,31,Sometimes,No,Designer,United States of America,other
+617,769,47,Sometimes,Yes,One-person shop|Designer,United States of America,Female
+618,770,29,Sometimes,No,Back-end Developer,United States of America,Male
+619,771,20,Always,No,Back-end Developer,United States of America,Male
+620,772,34,Never,No,Other,United States of America,other
+621,773,33,Never,Yes,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,United Kingdom,other
+622,774,56,Always,Maybe,One-person shop|Front-end Developer|Back-end Developer,United States of America,Female
+623,775,35,Sometimes,Yes,One-person shop,Canada,Male
+624,776,31,Sometimes,Yes,DevOps/SysAdmin,United States of America,other
+625,777,36,Sometimes,Yes,Executive Leadership,United States of America,Male
+626,778,30,Always,Yes,Support,United States of America,Male
+627,779,44,Never,Maybe,Support,United States of America,Female
+628,780,23,Sometimes,Yes,Front-end Developer|Designer,United States of America,Female
+629,781,46,Never,No,Support,United States of America,Male
+630,782,33,Always,Yes,Front-end Developer,United States of America,Female
+631,783,32,Never,Maybe,Other,United States of America,Female
+632,784,45,Sometimes,Maybe,DevOps/SysAdmin|Support|Back-end Developer|One-person shop,Australia,Male
+633,785,26,Sometimes,Yes,Back-end Developer,United States of America,Male
+634,786,32,Always,No,DevOps/SysAdmin|Back-end Developer,United States of America,Female
+635,787,28,Sometimes,No,Back-end Developer,United States of America,Male
+636,788,44,Sometimes,No,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,United States of America,Male
+637,789,42,Always,Maybe,One-person shop,United Kingdom,Male
+638,790,30,Sometimes,No,Back-end Developer,United States of America,Male
+639,791,28,Sometimes,Maybe,Front-end Developer|Designer,United States of America,Female
+640,792,31,Always,Yes,Supervisor/Team Lead,Canada,Male
+641,793,29,Sometimes,Maybe,Back-end Developer,United States of America,Male
+642,794,33,Sometimes,Maybe,Back-end Developer,United States of America,Male
+643,795,43,Always,Yes,Executive Leadership,United States of America,Female
+644,796,28,Always,Maybe,Dev Evangelist/Advocate|Front-end Developer|Back-end Developer|DevOps/SysAdmin,Australia,Male
+645,797,42,Always,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United Kingdom,other
+646,798,38,Always,Yes,Dev Evangelist/Advocate,United States of America,Male
+647,799,30,Sometimes,Maybe,DevOps/SysAdmin|Support|One-person shop,United States of America,Male
+648,800,51,Sometimes,Yes,One-person shop,United States of America,Female
+649,801,48,Never,No,Executive Leadership,United States of America,Female
+650,803,28,Sometimes,No,Designer|Support|Supervisor/Team Lead,Australia,Male
+651,804,37,Always,Maybe,Front-end Developer|Designer,United States of America,Male
+652,805,33,Sometimes,No,Back-end Developer,United States of America,Male
+653,806,21,Never,Yes,Front-end Developer,Australia,Male
+654,807,25,Sometimes,No,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|Designer|One-person shop,United States of America,Male
+655,808,15,Sometimes,No,Other,Canada,Male
+656,809,40,Always,Yes,Back-end Developer,United States of America,Male
+657,810,30,Sometimes,Maybe,Front-end Developer,Canada,Female
+658,814,24,Never,Maybe,Support|Designer,United Kingdom,Male
+659,815,23,Never,No,Back-end Developer,United Kingdom,Male
+660,816,39,Always,Yes,One-person shop|Other,United Kingdom,Female
+661,817,26,Sometimes,No,Other|Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+662,818,43,Never,No,Support,United Kingdom,Male
+663,821,40,Sometimes,Maybe,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead|Executive Leadership,United Kingdom,Male
+664,822,33,Never,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Designer|One-person shop,United Kingdom,Female
+665,824,22,Never,No,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,United Kingdom,Male
+666,825,28,Always,Yes,Back-end Developer,United States of America,Male
+667,826,39,Sometimes,Yes,Support,United States of America,Male
+668,827,33,Always,No,Support,United States of America,Male
+669,828,25,Always,No,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United Kingdom,Female
+670,829,37,Sometimes,No,Executive Leadership|Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+671,831,30,Sometimes,Yes,Back-end Developer,United States of America,Female
+672,832,42,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+673,833,52,Sometimes,No,Support|Front-end Developer|Back-end Developer,United States of America,Male
+674,835,35,Sometimes,Yes,Front-end Developer|Designer,United States of America,Male
+675,836,24,Sometimes,No,Other,United States of America,Male
+676,837,39,Sometimes,No,Back-end Developer,United States of America,Male
+677,838,34,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+678,839,32,Always,No,Front-end Developer|Back-end Developer|Sales|Support|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership,United States of America,Male
+679,840,25,Sometimes,Maybe,One-person shop|Front-end Developer|Back-end Developer|Support|Other,United Kingdom,other
+680,842,39,Sometimes,No,Dev Evangelist/Advocate|Back-end Developer|Front-end Developer,United States of America,Male
+681,843,35,Always,Yes,One-person shop|Front-end Developer|Back-end Developer,United States of America,Male
+682,844,34,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+683,845,38,Sometimes,No,Back-end Developer,United Kingdom,Male
+684,846,26,Always,Yes,Support,United States of America,other
+685,848,27,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Female
+686,849,25,Never,Yes,One-person shop,United States of America,Male
+687,850,37,Sometimes,No,One-person shop|Designer|Front-end Developer|Back-end Developer|Sales|Support,United States of America,other
+688,851,33,Sometimes,No,Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Designer|Front-end Developer,Canada,Male
+689,852,34,Sometimes,Yes,Support,United States of America,Male
+690,853,27,Sometimes,Yes,Designer,Canada,Male
+691,854,33,Sometimes,Maybe,Support,United States of America,Male
+692,855,50,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+693,856,54,Sometimes,Yes,One-person shop,United States of America,Female
+694,857,32,Sometimes,No,Supervisor/Team Lead|Sales,Canada,other
+695,858,39,Sometimes,No,Front-end Developer,Canada,other
+696,859,36,Sometimes,No,Back-end Developer|Front-end Developer|Designer,United States of America,Male
+697,860,34,Sometimes,No,Front-end Developer,Canada,Male
+698,861,31,Sometimes,Maybe,Front-end Developer,United States of America,Female
+699,862,36,Never,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,United States of America,Male
+700,863,48,Sometimes,No,Other|DevOps/SysAdmin|Support|Back-end Developer,United States of America,Male
+701,864,31,Never,Maybe,Back-end Developer,United States of America,Male
+702,865,32,Always,No,Other,United States of America,Male
+703,866,32,Always,No,Supervisor/Team Lead|Back-end Developer|Support|DevOps/SysAdmin,United States of America,Male
+704,867,31,Always,Yes,One-person shop|Front-end Developer,United States of America,Male
+705,868,28,Sometimes,Yes,Designer,United States of America,Female
+706,869,28,Never,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United Kingdom,Male
+707,870,33,Sometimes,Yes,Back-end Developer,United States of America,Female
+708,871,33,Never,No,Designer,United States of America,Male
+709,872,59,Always,Yes,Designer,United States of America,Male
+710,873,33,Sometimes,Yes,Executive Leadership,United States of America,Male
+711,874,37,Always,Maybe,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+712,876,39,Always,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+713,878,34,Never,No,Front-end Developer,United States of America,Female
+714,881,39,Sometimes,Maybe,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+715,882,46,Sometimes,No,Support|Back-end Developer|Front-end Developer,United States of America,Male
+716,883,28,Sometimes,Maybe,Front-end Developer,United States of America,Male
+717,885,65,Sometimes,Yes,Front-end Developer|Back-end Developer,United States of America,Female
+718,886,37,Always,Maybe,Dev Evangelist/Advocate|One-person shop|Back-end Developer|Support|DevOps/SysAdmin,United States of America,Male
+719,887,41,Sometimes,No,Other|One-person shop,United States of America,Female
+720,888,38,Sometimes,Yes,Executive Leadership|Other,United States of America,Male
+721,889,51,Sometimes,Yes,Supervisor/Team Lead,United States of America,Male
+722,890,29,Sometimes,Maybe,Back-end Developer,United States of America,Male
+723,892,31,Always,No,Supervisor/Team Lead,Canada,Male
+724,897,38,Always,No,One-person shop,United Kingdom,Female
+725,898,35,Never,Maybe,Other|Dev Evangelist/Advocate|Support,United States of America,Male
+726,899,29,Always,No,One-person shop|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+727,900,63,Always,No,One-person shop,United States of America,Male
+728,901,47,Always,Yes,One-person shop|Other,United States of America,Female
+729,904,27,Never,Maybe,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,Male
+730,905,40,Always,Yes,Other,United States of America,Female
+731,907,43,Always,Maybe,Front-end Developer|Support,United States of America,Female
+732,909,46,Always,No,One-person shop|Front-end Developer|Back-end Developer|DevOps/SysAdmin,United Kingdom,Male
+733,910,42,Sometimes,No,Front-end Developer,United States of America,Male
+734,911,31,Sometimes,Maybe,Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,United States of America,Male
+735,912,37,Never,Yes,Executive Leadership,United States of America,Female
+736,913,35,Never,Yes,Designer,Canada,Male
+737,914,30,Always,Maybe,One-person shop|Designer|Front-end Developer,United States of America,Female
+738,915,35,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer,Australia,Male
+739,916,24,Never,Yes,Back-end Developer,United States of America,Male
+740,920,28,Always,Yes,Front-end Developer,United Kingdom,Male
+741,921,30,Sometimes,No,Supervisor/Team Lead|Back-end Developer,United Kingdom,other
+742,922,38,Always,Maybe,One-person shop,United Kingdom,Male
+743,924,35,Sometimes,No,Back-end Developer,United Kingdom,Male
+744,925,54,Never,No,Other,United Kingdom,Male
+745,927,32,Always,No,Front-end Developer|Designer,United Kingdom,Female
+746,928,28,Sometimes,Maybe,Front-end Developer,United States of America,Male
+747,930,21,Always,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,United States of America,other
+748,932,30,Sometimes,Maybe,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate,United States of America,Male
+749,933,25,Sometimes,No,Other,United States of America,Female
+750,934,26,Always,No,Back-end Developer,United Kingdom,Male
+751,935,30,Never,No,Executive Leadership|Supervisor/Team Lead|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,Male
+752,938,32,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+753,939,45,Always,Yes,Back-end Developer,United Kingdom,Female
+754,941,27,Always,Maybe,Front-end Developer|Back-end Developer,United States of America,Male
+755,942,28,Always,Yes,Front-end Developer,United Kingdom,Female
+756,943,38,Always,No,Back-end Developer|DevOps/SysAdmin,United States of America,other
+757,944,38,Sometimes,Yes,Front-end Developer|Designer,United States of America,Male
+758,948,40,Sometimes,Maybe,Other,United States of America,Female
+759,949,39,Always,Yes,Back-end Developer,United States of America,Male
+760,950,28,Never,Maybe,Front-end Developer,United States of America,Male
+761,951,33,Sometimes,No,Front-end Developer|Back-end Developer,United States of America,Male
+762,952,32,Always,Maybe,DevOps/SysAdmin,United States of America,other
+763,953,32,Never,Yes,Other,United States of America,Male
+764,954,27,Never,Maybe,Other|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+765,958,35,Never,No,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+766,959,39,Sometimes,No,Other|Back-end Developer|Supervisor/Team Lead,United States of America,Male
+767,960,35,Never,No,Supervisor/Team Lead,United States of America,Male
+768,961,34,Sometimes,Yes,Back-end Developer,United States of America,Male
+769,962,44,Always,Yes,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership,United States of America,Female
+770,963,42,Always,No,Supervisor/Team Lead,United States of America,Male
+771,964,30,Always,No,Front-end Developer|Designer,United States of America,Male
+772,965,55,Never,Maybe,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,United States of America,Male
+773,966,46,Sometimes,Maybe,Back-end Developer,United States of America,other
+774,967,33,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer,United States of America,Male
+775,968,30,Sometimes,Yes,Supervisor/Team Lead|Support|Back-end Developer,United States of America,Male
+776,969,30,Sometimes,Yes,Supervisor/Team Lead,United Kingdom,Male
+777,970,31,Never,Maybe,Back-end Developer|Front-end Developer,United States of America,Female
+778,972,30,Sometimes,No,Support|Back-end Developer,United Kingdom,Female
+779,973,32,Sometimes,Yes,Back-end Developer,United States of America,Male
+780,974,32,Never,Yes,Supervisor/Team Lead,United Kingdom,Male
+781,975,47,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+782,976,39,Always,Maybe,DevOps/SysAdmin,United Kingdom,Male
+783,977,35,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+784,978,36,Sometimes,Yes,Supervisor/Team Lead,United States of America,Male
+785,979,38,Always,No,Front-end Developer,United States of America,Female
+786,980,30,Sometimes,Maybe,Back-end Developer|Front-end Developer,United States of America,Male
+787,981,33,Sometimes,No,Back-end Developer,United States of America,Male
+788,982,22,Never,Yes,Front-end Developer,United States of America,Male
+789,983,35,Always,Maybe,Back-end Developer,United States of America,other
+790,984,26,Never,No,Support|DevOps/SysAdmin,United States of America,other
+791,985,34,Always,Maybe,Front-end Developer|Back-end Developer|DevOps/SysAdmin,United States of America,Male
+792,986,40,Sometimes,Maybe,Sales|Support|DevOps/SysAdmin|Executive Leadership,United States of America,Male
+793,989,20,Sometimes,Yes,Back-end Developer,United States of America,Male
+794,990,30,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+795,991,32,Sometimes,Maybe,Front-end Developer,United States of America,Male
+796,992,35,Always,No,Other,United States of America,Male
+797,993,29,Sometimes,No,Back-end Developer,United States of America,Male
+798,994,29,Never,Maybe,DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer,United States of America,Male
+799,995,30,Always,No,Back-end Developer,United States of America,other
+800,996,30,Never,Yes,Supervisor/Team Lead,United States of America,Male
+801,997,38,Always,Yes,Designer,United States of America,Male
+802,998,30,Never,Maybe,Back-end Developer,Brazil,Male
+803,1001,24,Always,No,Front-end Developer|Back-end Developer,United States of America,Male
+804,1002,35,Never,No,Other,United States of America,Male
+805,1004,36,Sometimes,Yes,Supervisor/Team Lead|Front-end Developer,United States of America,other
+806,1005,34,Always,Yes,One-person shop,United Kingdom,Male
+807,1006,35,Sometimes,Maybe,Front-end Developer,United States of America,Male
+808,1007,25,Sometimes,No,Supervisor/Team Lead|Support|Front-end Developer|Back-end Developer,United States of America,Male
+809,1009,32,Never,No,Front-end Developer,United States of America,Female
+810,1010,37,Sometimes,Maybe,Front-end Developer|Executive Leadership,United States of America,Male
+811,1012,34,Sometimes,No,Back-end Developer,United Kingdom,Female
+812,1013,40,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+813,1014,45,Never,No,Other|Dev Evangelist/Advocate,United States of America,Male
+814,1016,30,Sometimes,Yes,Back-end Developer|Front-end Developer|Designer,United States of America,Male
+815,1017,47,Sometimes,No,Supervisor/Team Lead,United Kingdom,Female
+816,1018,48,Sometimes,No,Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,United Kingdom,other
+817,1019,44,Sometimes,Yes,One-person shop,United States of America,Male
+818,1020,29,Never,Maybe,Other|Support,United States of America,Male
+819,1021,52,Always,No,Supervisor/Team Lead,United States of America,other
+820,1024,27,Sometimes,No,Back-end Developer,United States of America,Male
+821,1026,40,Sometimes,Maybe,Executive Leadership,United Kingdom,Male
+822,1027,26,Always,Yes,DevOps/SysAdmin|Dev Evangelist/Advocate|Supervisor/Team Lead|Executive Leadership,Canada,Male
+823,1028,36,Never,No,Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin|Executive Leadership,United Kingdom,Male
+824,1029,35,Always,Yes,DevOps/SysAdmin,United Kingdom,Male
+825,1030,43,Never,No,Supervisor/Team Lead,United Kingdom,Female
+826,1031,36,Sometimes,Yes,Back-end Developer,United Kingdom,Female
+827,1032,32,Sometimes,No,Other|Supervisor/Team Lead|Front-end Developer,United States of America,Female
+828,1035,35,Always,Maybe,Other|Supervisor/Team Lead,United States of America,Male
+829,1036,35,Sometimes,Yes,DevOps/SysAdmin|Designer,Australia,Female
+830,1037,45,Always,Yes,DevOps/SysAdmin,United States of America,other
+831,1039,27,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+832,1040,26,Sometimes,No,Front-end Developer|Back-end Developer,United States of America,Male
+833,1041,51,Always,No,One-person shop,Australia,Male
+834,1044,34,Sometimes,No,Front-end Developer,United States of America,Male
+835,1046,33,Never,Yes,Supervisor/Team Lead,United Kingdom,Male
+836,1047,37,Sometimes,No,One-person shop,Australia,other
+837,1048,27,Never,Yes,Back-end Developer,United Kingdom,Female
+838,1049,54,Sometimes,Yes,Other,United States of America,Female
+839,1052,30,Sometimes,No,Designer|Front-end Developer,United Kingdom,Male
+840,1053,43,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|HR,Australia,Male
+841,1055,37,Always,No,DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,Australia,Female
+842,1056,25,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+843,1057,27,Sometimes,Yes,Front-end Developer|Back-end Developer|DevOps/SysAdmin,Australia,Male
+844,1058,27,Sometimes,Yes,Back-end Developer,Canada,Male
+845,1059,27,Never,Yes,DevOps/SysAdmin,United States of America,Male
+846,1061,24,Never,Maybe,Front-end Developer,United Kingdom,Male
+847,1064,32,Sometimes,No,Other,United States of America,Male
+848,1065,33,Sometimes,Yes,Back-end Developer,Australia,Male
+849,1066,56,Sometimes,Yes,One-person shop,United States of America,Male
+850,1067,43,Sometimes,Maybe,Other|Dev Evangelist/Advocate,United States of America,Male
+851,1068,49,Sometimes,Yes,Back-end Developer,Australia,Male
+852,1070,53,Sometimes,No,Front-end Developer|Back-end Developer,Canada,Male
+853,1071,45,Never,Yes,Back-end Developer|Front-end Developer,United States of America,other
+854,1072,40,Sometimes,Maybe,Support|Sales|Designer,United States of America,Male
+855,1073,52,Sometimes,No,Back-end Developer,United States of America,Male
+856,1078,24,Sometimes,Maybe,DevOps/SysAdmin,United States of America,other
+857,1079,44,Sometimes,Maybe,Executive Leadership,Australia,Male
+858,1080,37,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer,United States of America,other
+859,1081,22,Always,Yes,Front-end Developer,Brazil,Male
+860,1082,31,Sometimes,Yes,Front-end Developer,United States of America,Female
+861,1085,25,Sometimes,No,Back-end Developer|Front-end Developer,United States of America,Female
+862,1086,49,Always,Maybe,One-person shop|Designer|Front-end Developer,United States of America,Male
+863,1087,22,Always,Yes,Other|Back-end Developer,United States of America,other
+864,1088,43,Sometimes,Yes,One-person shop|Designer|Front-end Developer,United States of America,Male
+865,1089,33,Never,Maybe,Executive Leadership,United States of America,other
+866,1090,36,Sometimes,Maybe,Other,United States of America,other
+867,1091,26,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Female
+868,1092,43,Sometimes,Yes,Other,United States of America,Male
+869,1093,21,Sometimes,Maybe,Executive Leadership|Supervisor/Team Lead|Support|Sales|Designer|Front-end Developer|Back-end Developer,United States of America,Male
+870,1094,39,Sometimes,No,Other|Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Support,Australia,Male
+871,1095,46,Sometimes,Yes,Other|Front-end Developer|Designer|One-person shop,United Kingdom,Male
+872,1096,32,Sometimes,No,Supervisor/Team Lead|Executive Leadership,United Kingdom,Male
+873,1097,31,Sometimes,No,Designer,United Kingdom,Male
+874,1100,36,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+875,1101,31,Never,No,Support,United Kingdom,Female
+876,1102,30,Sometimes,Yes,Other,United States of America,other
+877,1103,36,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+878,1104,31,Sometimes,No,Front-end Developer|Designer|One-person shop,United States of America,other
+879,1105,23,Never,No,Front-end Developer,Canada,Male
+880,1106,23,Always,Yes,Other,Canada,Male
+881,1107,30,Always,Yes,DevOps/SysAdmin|Support|Sales|Front-end Developer|Designer|One-person shop,United States of America,other
+882,1108,34,Always,No,DevOps/SysAdmin|Back-end Developer|Front-end Developer|One-person shop,Canada,Male
+883,1109,49,Sometimes,No,Supervisor/Team Lead|Front-end Developer|Back-end Developer|Support|DevOps/SysAdmin,United States of America,Female
+884,1111,39,Sometimes,Maybe,Other|Supervisor/Team Lead|Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,United Kingdom,Male
+885,1113,26,Sometimes,No,Back-end Developer,United States of America,Male
+886,1114,41,Sometimes,Yes,Back-end Developer,United States of America,Male
+887,1117,74,Sometimes,No,Support|Back-end Developer,United States of America,other
+888,1119,47,Sometimes,Yes,Other,United States of America,Male
+889,1121,51,Never,No,Supervisor/Team Lead,United States of America,Male
+890,1122,26,Never,Yes,Back-end Developer,United States of America,Male
+891,1123,24,Never,Maybe,Front-end Developer|Back-end Developer,United States of America,Male
+892,1124,33,Always,Maybe,Executive Leadership,United States of America,Female
+893,1125,32,Sometimes,Yes,Designer,United States of America,other
+894,1126,57,Always,No,Executive Leadership,United States of America,Male
+895,1127,39,Never,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+896,1128,26,Sometimes,Yes,Other,United States of America,Female
+897,1129,38,Sometimes,Maybe,DevOps/SysAdmin,United States of America,Male
+898,1131,30,Sometimes,Maybe,Front-end Developer|Designer,United States of America,Male
+899,1132,25,Sometimes,Yes,Back-end Developer,United States of America,other
+900,1133,40,Sometimes,Yes,Other,United States of America,Male
+901,1134,26,Sometimes,Yes,Front-end Developer,United States of America,Female
+902,1135,34,Never,Yes,Support,United States of America,Male
+903,1136,46,Sometimes,Maybe,Front-end Developer,United States of America,Female
+904,1137,31,Sometimes,Yes,Front-end Developer,United States of America,Female
+905,1139,30,Sometimes,No,Back-end Developer|Dev Evangelist/Advocate,United States of America,Male
+906,1140,26,Always,Yes,Other|One-person shop|Designer|Front-end Developer|Back-end Developer|Support|Supervisor/Team Lead,United States of America,other
+907,1142,31,Never,Yes,Dev Evangelist/Advocate,United States of America,Male
+908,1143,40,Always,No,Back-end Developer,United States of America,Male
+909,1144,39,Always,Yes,Supervisor/Team Lead|Support|Back-end Developer|Front-end Developer,United States of America,other
+910,1145,37,Sometimes,Maybe,Supervisor/Team Lead|Back-end Developer|Front-end Developer|Designer,United States of America,Male
+911,1146,27,Always,No,Front-end Developer|Back-end Developer,United States of America,Male
+912,1147,45,Always,No,Back-end Developer,United States of America,other
+913,1148,29,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+914,1149,47,Sometimes,No,Other,United States of America,Female
+915,1150,33,Always,No,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+916,1151,32,Always,No,Back-end Developer,United States of America,Male
+917,1152,29,Sometimes,No,DevOps/SysAdmin|Support|Back-end Developer,United States of America,Male
+918,1153,36,Sometimes,Yes,Back-end Developer,United States of America,Male
+919,1154,35,Never,No,Front-end Developer|Back-end Developer,United States of America,Female
+920,1155,40,Always,No,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+921,1156,36,Always,Yes,Other,United States of America,Male
+922,1157,39,Sometimes,No,Back-end Developer|Front-end Developer,United States of America,Female
+923,1158,38,Always,Maybe,Back-end Developer,United States of America,Male
+924,1159,23,Sometimes,Maybe,DevOps/SysAdmin|Support|Back-end Developer,United States of America,Male
+925,1160,29,Sometimes,No,Supervisor/Team Lead|DevOps/SysAdmin|Support,United States of America,Male
+926,1161,38,Always,No,Other|Supervisor/Team Lead|DevOps/SysAdmin|Support|Front-end Developer|Back-end Developer,United States of America,Male
+927,1162,34,Sometimes,Yes,Supervisor/Team Lead,United States of America,Female
+928,1163,28,Never,Yes,Other,Brazil,Male
+929,1165,25,Never,Maybe,Back-end Developer|Front-end Developer,United States of America,Female
+930,1166,36,Sometimes,Yes,Other,United States of America,Female
+931,1167,57,Sometimes,Yes,Other,United States of America,Female
+932,1169,49,Never,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+933,1170,34,Never,No,Supervisor/Team Lead|Back-end Developer|DevOps/SysAdmin,United States of America,other
+934,1171,43,Sometimes,No,Front-end Developer,United Kingdom,Male
+935,1173,32,Always,No,Back-end Developer|Support|Supervisor/Team Lead,United States of America,Male
+936,1175,33,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+937,1178,33,Always,Yes,Back-end Developer,United States of America,Female
+938,1180,22,Sometimes,Yes,One-person shop,United States of America,Male
+939,1181,22,Never,Yes,Back-end Developer,United States of America,Female
+940,1182,23,Sometimes,Yes,Designer|Front-end Developer|Back-end Developer|Supervisor/Team Lead,United States of America,Female
+941,1185,32,Always,Yes,Dev Evangelist/Advocate,United States of America,Male
+942,1186,43,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,other
+943,1187,49,Sometimes,Yes,DevOps/SysAdmin|Support,United States of America,Male
+944,1189,29,Always,Yes,One-person shop,United States of America,Male
+945,1190,27,Never,No,Front-end Developer|Back-end Developer,Canada,Male
+946,1191,30,Never,Maybe,Support|Back-end Developer|Front-end Developer,United States of America,Male
+947,1192,43,Sometimes,No,Other,United States of America,Female
+948,1193,30,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,other
+949,1194,33,Sometimes,Yes,Other|Back-end Developer|Front-end Developer|Designer,United States of America,Female
+950,1195,27,Sometimes,Yes,Back-end Developer,United States of America,Female
+951,1196,26,Never,Yes,Front-end Developer,United States of America,Female
+952,1198,30,Never,Yes,Front-end Developer|Designer,United States of America,Male
+953,1199,39,Never,No,DevOps/SysAdmin,United States of America,Male
+954,1200,36,Never,Maybe,Front-end Developer,United States of America,Male
+955,1201,34,Always,No,Supervisor/Team Lead,United Kingdom,Male
+956,1202,25,Never,Yes,Front-end Developer,United States of America,Female
+957,1204,38,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+958,1205,39,Always,No,Supervisor/Team Lead,United States of America,Male
+959,1206,32,Never,Maybe,Supervisor/Team Lead|Designer,United States of America,Male
+960,1207,27,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+961,1208,31,Sometimes,Yes,Front-end Developer,United States of America,Female
+962,1209,30,Never,Maybe,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United Kingdom,Female
+963,1210,34,Sometimes,No,Back-end Developer,United Kingdom,other
+964,1211,26,Always,Maybe,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+965,1212,27,Always,No,Back-end Developer,United Kingdom,Female
+966,1213,29,Never,Yes,Back-end Developer,United States of America,Male
+967,1214,37,Always,Maybe,Front-end Developer|Back-end Developer,Canada,Female
+968,1215,49,Always,Yes,Support|Back-end Developer|Front-end Developer|One-person shop,United States of America,Female
+969,1216,39,Sometimes,No,Front-end Developer,United States of America,Male
+970,1218,28,Sometimes,Yes,Front-end Developer,United States of America,Male
+971,1219,33,Always,Yes,Executive Leadership,United States of America,Male
+972,1220,30,Sometimes,No,Executive Leadership,United Kingdom,Female
+973,1221,70,Always,Yes,Dev Evangelist/Advocate|Back-end Developer,United States of America,Male
+974,1223,45,Sometimes,Yes,Back-end Developer,United Kingdom,Male
+975,1224,63,Never,Yes,Back-end Developer,United States of America,Female
+976,1225,40,Always,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+977,1226,39,Sometimes,Yes,Back-end Developer,United States of America,Male
+978,1227,31,Always,Yes,Front-end Developer|Designer,United States of America,other
+979,1228,34,Never,Yes,Back-end Developer,United States of America,Male
+980,1229,44,Sometimes,Yes,One-person shop,United Kingdom,Male
+981,1231,43,Sometimes,Yes,Executive Leadership,United States of America,Male
+982,1232,29,Always,No,Back-end Developer|Supervisor/Team Lead,United States of America,Male
+983,1233,27,Always,Yes,Dev Evangelist/Advocate,United States of America,other
+984,1234,37,Always,Yes,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Male
+985,1235,41,Always,Yes,Front-end Developer|Designer,United States of America,other
+986,1236,30,Sometimes,Yes,Front-end Developer,United States of America,other
+987,1237,28,Sometimes,Yes,Supervisor/Team Lead,United States of America,Male
+988,1238,28,Sometimes,No,Back-end Developer,United States of America,Male
+989,1240,22,Sometimes,Yes,Back-end Developer,United Kingdom,Male
+990,1241,31,Sometimes,No,Supervisor/Team Lead,United States of America,Male
+991,1242,29,Never,No,Back-end Developer,United Kingdom,Male
+992,1245,42,Always,Maybe,Back-end Developer,United States of America,Male
+993,1246,31,Never,Yes,Other,United Kingdom,Male
+994,1247,34,Always,Yes,Other|One-person shop|Designer|Front-end Developer,United States of America,Male
+995,1248,49,Always,Yes,Support|Back-end Developer|Front-end Developer|One-person shop,United States of America,Female
+996,1249,29,Never,Maybe,Back-end Developer|Front-end Developer,Canada,Male
+997,1250,40,Sometimes,Yes,Back-end Developer,United States of America,other
+998,1252,31,Always,No,One-person shop|Designer|Sales|Support|Supervisor/Team Lead,United States of America,Female
+999,1255,32,Sometimes,Maybe,DevOps/SysAdmin|Support|Back-end Developer|One-person shop|Front-end Developer,United Kingdom,Male
+1000,1256,38,Sometimes,Yes,Back-end Developer,United States of America,Male
+1001,1259,32,Never,Yes,Back-end Developer,United Kingdom,Male
+1002,1262,25,Always,Maybe,One-person shop|Designer,United States of America,Female
+1003,1263,24,Sometimes,No,Dev Evangelist/Advocate|DevOps/SysAdmin|Designer|Front-end Developer|Back-end Developer,United States of America,Male
+1004,1264,34,Sometimes,No,Other,United States of America,Female
+1005,1265,55,Always,Yes,One-person shop,United States of America,Male
+1006,1266,32,Sometimes,Yes,DevOps/SysAdmin|Back-end Developer|Front-end Developer|Designer,United States of America,other
+1007,1268,20,Sometimes,No,Other|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+1008,1269,41,Sometimes,Maybe,Supervisor/Team Lead,United States of America,Male
+1009,1270,33,Sometimes,Yes,Dev Evangelist/Advocate,United States of America,Female
+1010,1271,25,Sometimes,Maybe,Back-end Developer|DevOps/SysAdmin,United States of America,Male
+1011,1272,29,Sometimes,No,Supervisor/Team Lead,United Kingdom,Male
+1012,1273,24,Sometimes,Yes,DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer,United States of America,other
+1013,1274,39,Sometimes,Yes,Back-end Developer,United States of America,Male
+1014,1275,39,Sometimes,No,Executive Leadership,United Kingdom,Male
+1015,1276,44,Sometimes,No,One-person shop,United Kingdom,other
+1016,1279,37,Always,Yes,Supervisor/Team Lead|Back-end Developer|One-person shop,United Kingdom,Male
+1017,1280,42,Sometimes,Yes,DevOps/SysAdmin,United Kingdom,Male
+1018,1281,35,Always,Maybe,Back-end Developer,Canada,Male
+1019,1282,30,Never,No,Back-end Developer|Front-end Developer,United States of America,Male
+1020,1283,30,Always,No,Front-end Developer,Canada,Male
+1021,1284,33,Sometimes,Yes,Dev Evangelist/Advocate|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+1022,1285,31,Never,Maybe,Other,United States of America,Male
+1023,1286,39,Sometimes,Yes,Supervisor/Team Lead|Front-end Developer|Designer,United States of America,Female
+1024,1288,34,Sometimes,Yes,Front-end Developer|Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead,United Kingdom,Male
+1025,1289,31,Sometimes,No,Support|Front-end Developer|Back-end Developer,United States of America,Male
+1026,1290,30,Always,Yes,Other|Supervisor/Team Lead,United States of America,Female
+1027,1291,34,Sometimes,Yes,Back-end Developer,United States of America,Male
+1028,1292,20,Never,Maybe,Back-end Developer,Canada,other
+1029,1293,39,Never,Yes,One-person shop,United States of America,Male
+1030,1294,50,Sometimes,Maybe,Other,United States of America,Female
+1031,1295,22,Never,Yes,Sales,United States of America,Male
+1032,1298,32,Sometimes,Yes,Back-end Developer,United States of America,other
+1033,1301,21,Always,Maybe,Executive Leadership|Supervisor/Team Lead|Dev Evangelist/Advocate|Back-end Developer,United Kingdom,Male
+1034,1302,27,Sometimes,Yes,Front-end Developer,United States of America,Male
+1035,1303,37,Sometimes,Yes,Support,United States of America,other
+1036,1304,45,Always,Maybe,Other,United Kingdom,Male
+1037,1305,26,Sometimes,No,One-person shop|Designer|Sales|Executive Leadership,United States of America,Male
+1038,1306,30,Sometimes,Maybe,Back-end Developer,United States of America,Female
+1039,1307,21,Sometimes,Yes,Other,United States of America,Male
+1040,1308,21,Sometimes,Maybe,Other,United States of America,Male
+1041,1310,46,Sometimes,No,DevOps/SysAdmin,United States of America,Male
+1042,1311,28,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,other
+1043,1312,26,Never,Yes,Support|Back-end Developer|Front-end Developer|Designer,United States of America,other
+1044,1313,37,Always,Yes,Supervisor/Team Lead|Support|One-person shop|Designer|Front-end Developer|Sales,United States of America,Female
+1045,1314,44,Sometimes,No,Support,United States of America,Male
+1046,1315,45,Always,Yes,One-person shop|Designer|Support,United States of America,Female
+1047,1316,35,Always,No,Front-end Developer,United States of America,Female
+1048,1317,39,Never,Yes,Back-end Developer,United States of America,Male
+1049,1318,37,Sometimes,No,Back-end Developer,United States of America,Female
+1050,1319,35,Sometimes,No,Dev Evangelist/Advocate|DevOps/SysAdmin|Support|Back-end Developer|Front-end Developer|One-person shop,United States of America,Male
+1051,1320,29,Never,Yes,Supervisor/Team Lead,United States of America,Female
+1052,1321,49,Never,No,Other,United States of America,other
+1053,1322,21,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,other
+1054,1323,26,Sometimes,Maybe,Supervisor/Team Lead|Back-end Developer|Front-end Developer,United States of America,Female
+1055,1325,56,Sometimes,Yes,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer,United States of America,Male
+1056,1326,53,Always,Yes,Other|Front-end Developer|Designer|One-person shop,United States of America,Female
+1057,1327,48,Sometimes,Yes,Executive Leadership,United States of America,other
+1058,1328,24,Never,No,Back-end Developer,United Kingdom,Male
+1059,1330,27,Never,Yes,Designer,United States of America,Female
+1060,1331,39,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Female
+1061,1333,34,Always,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+1062,1334,33,Sometimes,Yes,Front-end Developer,United Kingdom,Male
+1063,1335,22,Never,Yes,Front-end Developer,United Kingdom,Male
+1064,1336,25,Sometimes,No,Front-end Developer|Supervisor/Team Lead,United Kingdom,Female
+1065,1337,34,Never,No,Front-end Developer|Back-end Developer,United Kingdom,Male
+1066,1338,30,Sometimes,Maybe,Front-end Developer,United Kingdom,Male
+1067,1339,37,Never,Maybe,Front-end Developer,United Kingdom,Male
+1068,1341,29,Never,Maybe,Front-end Developer,United States of America,Female
+1069,1343,27,Never,Yes,Front-end Developer|Designer,United Kingdom,Male
+1070,1345,23,Sometimes,No,Back-end Developer|Front-end Developer,United States of America,Male
+1071,1346,24,Sometimes,No,Front-end Developer,United States of America,Female
+1072,1348,28,Never,No,DevOps/SysAdmin|Front-end Developer|Back-end Developer|Support,United Kingdom,Male
+1073,1349,22,Never,Yes,Front-end Developer|Designer,United States of America,Male
+1074,1350,32,Sometimes,Maybe,Front-end Developer,United States of America,Male
+1075,1351,35,Always,Yes,DevOps/SysAdmin,United States of America,Female
+1076,1352,26,Sometimes,Yes,Back-end Developer,United States of America,Male
+1077,1353,31,Sometimes,Yes,Front-end Developer,United Kingdom,Female
+1078,1354,32,Sometimes,Yes,Executive Leadership|Supervisor/Team Lead|Front-end Developer,United States of America,Male
+1079,1356,24,Never,Yes,Front-end Developer|Back-end Developer,United Kingdom,Male
+1080,1357,33,Always,No,Back-end Developer,United States of America,Male
+1081,1358,28,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+1082,1359,22,Sometimes,Maybe,Back-end Developer|Front-end Developer,United States of America,Female
+1083,1361,30,Always,Maybe,Dev Evangelist/Advocate,United States of America,Male
+1084,1362,29,Never,Yes,Back-end Developer,United States of America,Male
+1085,1363,22,Sometimes,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+1086,1364,24,Sometimes,Yes,Designer,United States of America,Female
+1087,1366,30,Sometimes,Maybe,DevOps/SysAdmin,United States of America,Male
+1088,1367,25,Always,Maybe,One-person shop|DevOps/SysAdmin,United States of America,other
+1089,1368,39,Sometimes,No,DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+1090,1370,25,Sometimes,Yes,Front-end Developer,United States of America,Male
+1091,1371,39,Sometimes,No,Back-end Developer,United States of America,Male
+1092,1372,31,Always,Yes,Dev Evangelist/Advocate,United States of America,Female
+1093,1373,35,Sometimes,Maybe,DevOps/SysAdmin,United States of America,other
+1094,1374,31,Always,Yes,Support|Back-end Developer|Front-end Developer|One-person shop,United States of America,other
+1095,1375,23,Sometimes,Yes,Front-end Developer|Back-end Developer,United States of America,Male
+1096,1376,30,Never,Yes,Executive Leadership,United States of America,Male
+1097,1379,26,Never,Yes,Front-end Developer,United States of America,other
+1098,1380,24,Never,Maybe,Supervisor/Team Lead,United States of America,Female
+1099,1381,32,Never,No,Supervisor/Team Lead,United States of America,Male
+1100,1382,35,Always,Yes,One-person shop,United States of America,Male
+1101,1384,32,Sometimes,Yes,Front-end Developer|Designer,United States of America,Male
+1102,1385,35,Never,Maybe,Back-end Developer,United States of America,Male
+1103,1386,26,Always,Maybe,Supervisor/Team Lead|Back-end Developer,United States of America,Female
+1104,1387,30,Sometimes,Yes,Other,United States of America,Female
+1105,1388,29,Never,Maybe,Supervisor/Team Lead|DevOps/SysAdmin|Back-end Developer|Front-end Developer,United States of America,Male
+1106,1389,39,Always,No,Back-end Developer|Supervisor/Team Lead,Canada,Male
+1107,1390,37,Never,Maybe,Back-end Developer|Front-end Developer,United Kingdom,Male
+1108,1391,35,Sometimes,No,Back-end Developer,United States of America,Male
+1109,1392,25,Sometimes,Yes,Other,United States of America,Female
+1110,1393,22,Never,Maybe,Other|Back-end Developer,United States of America,other
+1111,1394,33,Never,Maybe,DevOps/SysAdmin,United Kingdom,Male
+1112,1395,23,Sometimes,Yes,Back-end Developer,United States of America,other
+1113,1396,29,Sometimes,Yes,Executive Leadership,Brazil,Male
+1114,1397,28,Always,Yes,Front-end Developer,United States of America,Male
+1115,1398,30,Never,Yes,Back-end Developer|Front-end Developer,United States of America,Male
+1116,1399,28,Sometimes,Yes,Other|Back-end Developer,United States of America,Male
+1117,1400,28,Always,Maybe,Dev Evangelist/Advocate,United States of America,Female
+1118,1401,37,Never,Yes,Supervisor/Team Lead|Back-end Developer,United States of America,Male
+1119,1402,30,Sometimes,Yes,DevOps/SysAdmin,United States of America,Male
+1120,1404,29,Sometimes,Yes,One-person shop|Designer|Front-end Developer|Back-end Developer|Dev Evangelist/Advocate|Supervisor/Team Lead,Canada,Male
+1121,1409,36,Always,Yes,Executive Leadership,United Kingdom,Male
+1122,1411,22,Sometimes,Yes,Other,United States of America,Female
+1123,1412,24,Sometimes,No,Other,United States of America,Male
+1124,1413,24,Sometimes,Yes,Front-end Developer,United States of America,Female
+1125,1414,36,Never,Yes,HR,United States of America,Female
+1126,1415,24,Never,Yes,Front-end Developer|Back-end Developer,United States of America,Female
+1127,1416,24,Never,No,Front-end Developer,United States of America,Male
+1128,1418,39,Never,Yes,Back-end Developer,United Kingdom,Male
+1129,1419,41,Sometimes,Yes,Supervisor/Team Lead|Back-end Developer|Designer,United States of America,Male
+1130,1420,29,Always,Maybe,Back-end Developer|DevOps/SysAdmin|Supervisor/Team Lead|Executive Leadership,United Kingdom,Male
+1131,1422,30,Always,No,Front-end Developer,Canada,Male
+1132,1423,24,Sometimes,No,Back-end Developer,Canada,Male
+1133,1424,22,Sometimes,Yes,Back-end Developer|Front-end Developer,Canada,Female
+1134,1425,24,Sometimes,Maybe,Supervisor/Team Lead|Front-end Developer|Back-end Developer|DevOps/SysAdmin|Dev Evangelist/Advocate,Canada,Male
+1135,1426,26,Sometimes,Yes,Other,Canada,Female
+1136,1427,38,Always,Yes,Support,United States of America,Female
+1137,1428,34,Sometimes,No,Other,United States of America,other
+1138,1429,56,Sometimes,No,Support,United States of America,other
+1139,1430,52,Sometimes,Maybe,Back-end Developer,United States of America,Male
+1140,1431,30,Sometimes,Yes,DevOps/SysAdmin,United States of America,Female
+1141,1432,25,Sometimes,Yes,Other,Canada,other
